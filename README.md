@@ -35,9 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F6e818a6053f5a11d48f2070de259173df357290c%2F207d7%2F_assets%2F_images%2Fspline_logo.png&f=1&nofb=1&ipt=e2bc8624c6000ba6bbb02cdea550ce88e38615b6203e2fee14df968b131ffced&ipo=images" height="40" alt="materialui logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F6e818a6053f5a11d48f2070de259173df357290c%2F207d7%2F_assets%2F_images%2Fspline_logo.png&f=1&nofb=1&ipt=e2bc8624c6000ba6bbb02cdea550ce88e38615b6203e2fee14df968b131ffced&ipo=images" height="40" alt="materialui logo"  />
 </div>
 
 ###
