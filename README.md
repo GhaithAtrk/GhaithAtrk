@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Use</h2>
 
 ###
 
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F6e818a6053f5a11d48f2070de259173df357290c%2F207d7%2F_assets%2F_images%2Fspline_logo.png&f=1&nofb=1&ipt=e2bc8624c6000ba6bbb02cdea550ce88e38615b6203e2fee14df968b131ffced&ipo=images" height="40" alt="materialui logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F6e818a6053f5a11d48f2070de259173df357290c%2F207d7%2F_assets%2F_images%2Fspline_logo.png&f=1&nofb=1&ipt=e2bc8624c6000ba6bbb02cdea550ce88e38615b6203e2fee14df968b131ffced&ipo=images" height="40" alt="graphql logo"  />
 </div>
 
 ###
@@ -48,6 +48,20 @@
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+</div>
+
+###
+
+<h2 align="left">Other Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
